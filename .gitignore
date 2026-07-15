@@ -1,0 +1,12 @@
+# Secrets / temp
+result
+result-*
+.env
+*.enc
+*.age
+
+# Editor
+*.swp
+*.swo
+*~
+.DS_Store
